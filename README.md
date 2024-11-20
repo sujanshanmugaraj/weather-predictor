@@ -1,0 +1,1 @@
+This Python program uses Tkinter for the interface and gets weather data from the OpenWeatherMap API. By entering a city name, users can view real-time weather details like temperature, condition, humidity, wind speed, and more in a simple, easy-to-use format.
